@@ -1,1 +1,2 @@
-# novFront
+npm install
+npm run built
